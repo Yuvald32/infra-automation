@@ -1,0 +1,20 @@
+[
+    {
+        "name": "WebServer1",
+        "OS": "Ubuntu",
+        "CPU": 2,
+        "RAM": 4
+    },
+    {
+        "name": "WebServer1",
+        "OS": "Windows",
+        "CPU": 2,
+        "RAM": 4
+    },
+    {
+        "name": "Juval",
+        "OS": "Windows",
+        "CPU": 2,
+        "RAM": 4
+    }
+]
